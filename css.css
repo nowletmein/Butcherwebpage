@@ -1,0 +1,58 @@
+
+body{
+    background-color: black;
+    background-image: url('https://shorturl.at/mnDX8');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#main{ 
+    
+    background: rgba(255, 255, 255, 0.9);
+    
+    margin-top: 150px;
+    margin-left: 130px;
+    height: 600px;
+    padding: 50px;
+    border-radius: 50px;
+	
+}
+
+#div-nyit{
+    float: right;
+    border-style: solid;
+    border-color: black;
+}
+li {
+
+    
+    font-weight: 500;
+    font-size: 30px !important;
+    text-align: center !important ;
+}
+
+#facebook{
+    float: left;
+    position: absolute;
+    right: 25%;
+}
+
+.nav_links li a{
+transition: all 0.3s ease 0;
+padding: 0px 20px;
+
+}
+#cím{
+    color: white;
+    font-size: 30px !important
+}
+
+
+.gomb{
+	color: black;	
+	height: 15px;
+	margin-bottom: 10px;
+    text-align: center;
+}
